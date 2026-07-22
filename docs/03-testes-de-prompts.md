@@ -60,7 +60,18 @@ Foram apresentadas aplicações práticas, como assistentes internos, geração 
 
 Prompts específicos produzem respostas mais úteis e aplicáveis ao contexto empresarial.
 
----
+# 📷 Evidências dos Testes
+
+## Experimento 1
+
+![Prompt Inicial](../imagem/01-prompt-inicial.jpeg)
+
+## Experimento 2
+
+![Prompt Melhorado](../imagem/02-prompt-melhorado.jpeg)
+
+![prompt melhorado](../imagem/03-continuaçao.jpeg)
+
 
 # Conclusão
 
